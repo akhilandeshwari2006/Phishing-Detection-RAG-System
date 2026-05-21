@@ -1,0 +1,17 @@
+__pycache__/
+.env
+credentials.json
+token.json
+token_send.json
+
+agent_results.json
+detected.json
+emails.json
+final_results.json
+output.json
+preprocessed.json
+rag_results.json
+seen_ids.json
+summary_report.json
+
+report.txt

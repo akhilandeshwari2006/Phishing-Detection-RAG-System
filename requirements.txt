@@ -1,0 +1,34 @@
+# ── Phase 1: Gmail API ────────────────────────────────────────────────────────
+google-auth==2.29.0
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+google-api-python-client==2.126.0
+
+# ── Phase 2: Preprocessing ────────────────────────────────────────────────────
+beautifulsoup4==4.12.3
+lxml==5.2.1
+
+# ── Phase 3: ML Detection ─────────────────────────────────────────────────────
+scikit-learn==1.4.2
+numpy==1.26.4
+pandas==2.2.2
+joblib==1.4.2
+
+# ── Phase 4: Agentic Engine ───────────────────────────────────────────────────
+langchain==0.1.20
+langchain-openai==0.1.6
+langchain-community==0.0.38
+
+# ── Phase 5: RAG ──────────────────────────────────────────────────────────────
+faiss-cpu==1.8.0
+
+# ── Phase 6: LLM ──────────────────────────────────────────────────────────────
+openai==1.30.1
+anthropic==0.26.0
+
+# ── Phase 8: Dashboard ────────────────────────────────────────────────────────
+streamlit==1.35.0
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+python-dotenv==1.0.1
+requests==2.32.2

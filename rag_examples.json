@@ -1,0 +1,122 @@
+[
+  {
+    "id": "phish_001",
+    "subject": "Urgent: Your account has been suspended",
+    "text": "Dear customer, your account has been suspended due to unusual activity. Please verify your identity immediately by clicking the link below. Failure to do so will result in permanent account closure.",
+    "attack_type": "Account Suspension Scam",
+    "target": "Generic / Banking",
+    "risk_score": 92
+  },
+  {
+    "id": "phish_002",
+    "subject": "Your PayPal account is limited",
+    "text": "We have limited your PayPal account. To restore full access, please confirm your identity and update your billing information. Click here to verify your account now.",
+    "attack_type": "PayPal Phishing",
+    "target": "PayPal Users",
+    "risk_score": 95
+  },
+  {
+    "id": "phish_003",
+    "subject": "Action Required: Update your payment information",
+    "text": "Your Netflix membership has been suspended due to a problem with your last payment. Update your payment information to continue your membership. Click the button below to update your details.",
+    "attack_type": "Netflix Billing Scam",
+    "target": "Netflix Subscribers",
+    "risk_score": 88
+  },
+  {
+    "id": "phish_004",
+    "subject": "Congratulations! You have won a prize",
+    "text": "You have been selected as our lucky winner! Claim your $1000 prize now. This offer expires in 24 hours. Click here to claim your reward. Provide your bank details to receive the transfer.",
+    "attack_type": "Prize / Lottery Scam",
+    "target": "General Public",
+    "risk_score": 97
+  },
+  {
+    "id": "phish_005",
+    "subject": "IRS Tax Refund Notification",
+    "text": "After the last annual calculation of your fiscal activity, we have determined that you are eligible to receive a tax refund of $347.50. Please submit the tax refund request by clicking here.",
+    "attack_type": "IRS / Tax Refund Scam",
+    "target": "US Taxpayers",
+    "risk_score": 94
+  },
+  {
+    "id": "phish_006",
+    "subject": "Security Alert: Suspicious login attempt",
+    "text": "We detected a suspicious login attempt on your account from an unknown device. If this was not you, please secure your account immediately by verifying your password and personal details.",
+    "attack_type": "Security Alert Phishing",
+    "target": "Generic Account Holders",
+    "risk_score": 85
+  },
+  {
+    "id": "phish_007",
+    "subject": "Your Microsoft account will be deleted",
+    "text": "Your Microsoft account is scheduled for deletion due to inactivity. To prevent this, please verify your account within 48 hours. Enter your username and password to confirm your identity.",
+    "attack_type": "Microsoft Account Phishing",
+    "target": "Microsoft Users",
+    "risk_score": 90
+  },
+  {
+    "id": "phish_008",
+    "subject": "Package delivery failed - action required",
+    "text": "We attempted to deliver your package but were unable to complete the delivery. Please click the link below to reschedule your delivery and confirm your address and payment details.",
+    "attack_type": "Delivery / Shipping Scam",
+    "target": "Online Shoppers",
+    "risk_score": 82
+  },
+  {
+    "id": "phish_009",
+    "subject": "Your Apple ID has been locked",
+    "text": "Your Apple ID has been locked for security reasons. Someone tried to sign in to your account from an unrecognized device. Please verify your identity to unlock your account immediately.",
+    "attack_type": "Apple ID Phishing",
+    "target": "Apple Users",
+    "risk_score": 91
+  },
+  {
+    "id": "phish_010",
+    "subject": "Invoice overdue - immediate payment required",
+    "text": "This is a final notice regarding your overdue invoice. Legal action will be taken if payment is not received within 24 hours. Click here to pay now and avoid legal proceedings.",
+    "attack_type": "Fake Invoice / Legal Threat",
+    "target": "Business Users",
+    "risk_score": 89
+  },
+  {
+    "id": "phish_011",
+    "subject": "Your bank account requires verification",
+    "text": "Dear account holder, we have detected unusual transactions on your bank account. For your security, we have temporarily suspended your online access. Please login to verify your identity and restore access.",
+    "attack_type": "Bank Phishing",
+    "target": "Banking Customers",
+    "risk_score": 93
+  },
+  {
+    "id": "phish_012",
+    "subject": "Crypto wallet: Urgent action needed",
+    "text": "Your cryptocurrency wallet has been flagged for suspicious activity. To secure your funds, please verify your wallet credentials immediately. Enter your seed phrase to confirm ownership of your wallet.",
+    "attack_type": "Crypto Wallet Scam",
+    "target": "Crypto Users",
+    "risk_score": 98
+  },
+  {
+    "id": "phish_013",
+    "subject": "HR: Important update to your salary details",
+    "text": "Dear employee, we need to update your salary payment details in our system. Please provide your bank account number and sort code to ensure your next salary payment is processed correctly.",
+    "attack_type": "HR / Payroll Scam",
+    "target": "Corporate Employees",
+    "risk_score": 87
+  },
+  {
+    "id": "phish_014",
+    "subject": "COVID-19 relief fund - claim your payment",
+    "text": "You are eligible for a COVID-19 government relief payment of $1,200. To claim your payment, please provide your social security number and bank account details using the secure form below.",
+    "attack_type": "Government Relief Scam",
+    "target": "General Public",
+    "risk_score": 96
+  },
+  {
+    "id": "phish_015",
+    "subject": "Your password will expire today",
+    "text": "Your email password will expire in 2 hours. To keep your current password and avoid losing access to your account, please click the link below and enter your current password to continue.",
+    "attack_type": "Password Expiry Phishing",
+    "target": "Email Users",
+    "risk_score": 84
+  }
+]
